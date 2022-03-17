@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-vue-pwa-fail",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
